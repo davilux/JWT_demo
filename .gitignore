@@ -1,0 +1,3 @@
+node_modules
+# .env
+# .env is commented out here because I want to be able to see it in my GitHub when I refer to this demo. However, in practice, you'd want .env to be ignored.
